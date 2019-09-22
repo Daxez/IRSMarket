@@ -1,0 +1,8 @@
+*.pyc
+
+venv/*
+*.py~
+simulation_data/*
+sweep/*
+configuration/*
+data_collapse/*
